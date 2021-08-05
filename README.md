@@ -47,7 +47,7 @@ matplotlib
 scipy
 
 # Achievements 
-I have achieved an accuracy of 95.9821 % on the test set using VGG16.
+I have achieved an accuracy of 95.9821 % on the test set.
 
 claiming the 5th on the competition leaderboard.
 
